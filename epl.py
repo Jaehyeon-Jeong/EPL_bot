@@ -25,7 +25,7 @@ fixtures_url = "https://api.football-data.org/v4/competitions/PL/matches"
 goal_url = "https://api.football-data.org/v4/competitions/PL/scorers"
 
 # from football-data.org
-api_key = 'b85297ee6f4b49adb48da70a7762b4b2'
+api_key = ''
 headers = {'X-Auth-Token': api_key}
 
 # from bot-father
