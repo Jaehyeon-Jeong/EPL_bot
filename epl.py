@@ -29,7 +29,7 @@ api_key = 'b85297ee6f4b49adb48da70a7762b4b2'
 headers = {'X-Auth-Token': api_key}
 
 # from bot-father
-access_token = "6703689653:AAHSC8W2uiz3WN0yWkBZfdRjM1vDDnQ54n0"
+access_token = ""
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
